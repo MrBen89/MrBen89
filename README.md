@@ -17,7 +17,7 @@ https://github.com/MrBen89/Eastern-Nagano-Castle-Tour
 ![ENCT_screen](https://user-images.githubusercontent.com/79908678/176362852-a9f1e7e4-93ba-437c-aef2-ade4b3d743d1.jpg)
 
 
-Finally my current WIP, a study aid app for children learnign English;
+Finally my current WIP, a study aid app for children learning English;
 
 https://github.com/MrBen89/studymonster
 
