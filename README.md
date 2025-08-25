@@ -13,9 +13,11 @@ Anyway, that's a (very) brief overview of my time with computers. I hope I'll ha
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,docker,postgres,rails,ruby,react,ts)
 
 
-http://www.br-pearson.com
-<img src="https://user-images.githubusercontent.com/79908678/176362776-e6773a1d-82fa-4454-851c-f9452212aa11.jpg" width="480">
-![brp_screen](https://user-images.githubusercontent.com/79908678/176362776-e6773a1d-82fa-4454-851c-f9452212aa11.jpg)
+
+
+
+<a href="http://www.br-pearson.com"><img src="https://user-images.githubusercontent.com/79908678/176362776-e6773a1d-82fa-4454-851c-f9452212aa11.jpg" width="480"></a>
+
 
 
 and here is a small castle tour website;
