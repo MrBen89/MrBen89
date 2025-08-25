@@ -1,57 +1,63 @@
-Hi! I'm Ben, and I love computers. I've been enamoured with them since I was a tiny little thing playing with a gameboy and an Amstrad in the '90s.
+# Hi, I'm Ben 👋
 
-My interest in programming started with that Amstrad. Like most 80's micro's, it came with BASIC, which made it super easy for a curious kid to start writing simple programs.
+I've loved computers since I was a tiny kid playing with a Gameboy and an Amstrad in the '90s.
 
-From there, I started making games on Windows XP, using simple GUI's, which familiarized me with a lot of the concepts of coding. That led me to start customizing my folders with HTML (which was something you could do back on Windows XP!).
+My programming journey started with that Amstrad. Like most '80s micros, it came with BASIC, making it super easy for a curious kid to write simple programs.
 
-After that I tried making some simple websites, with things like Geocities and dreamweaver, way back in the day. It wasn't quite painful enough to stop me from studying computing in college, where I deepened my knowledge of algorithms and languages.
+From there, I started making games on Windows XP using simple GUIs, which introduced me to many coding concepts. Customizing folders with HTML (remember folder backgrounds?) led me to simple websites using Geocities and Dreamweaver. The experience wasn't painful enough to keep me from studying computing in college, where I dabbled with Visual Basic and C++.
 
-Years later, I found myself wanting to code again, so I picked up JS, and started looking at modern web dev. I enjoyed that enough to join Le Wagon's bootcamp, where I had a great time learning Ruby, and messing around with fun things like WebSockets and SQL.
+Years later, my love for coding returned. I picked up JavaScript and explored modern web development, eventually joining Le Wagon's bootcamp to learn Ruby, Rails, and more.
 
-Anyway, that's a (very) brief overview of my time with computers. I hope I'll have more to add here in the future!
+That's a (very) brief overview of my time with computers. I hope I'll have more to add here in the future!
 
+---
 
-  <h2>Some of my Skills</h2>  
-
+## 🛠️ Some of My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,docker,postgres,rails,ruby,react,ts)
-    
 
-  <h2>My Portfolio</h2>  
+---
 
+## 🌐 My Portfolio
 
-<a href="http://br-pearson.com"><img width="480" alt="brp" src="https://github.com/user-attachments/assets/c3a73513-e19a-482f-a2a0-df0ed44323b6" /></a>
+[![Portfolio](https://github.com/user-attachments/assets/c3a73513-e19a-482f-a2a0-df0ed44323b6)](http://br-pearson.com)
 
+---
 
-      
-  <h2>My current project</h2>
-I'm currently building a piece of software to draw tiled maps, record adventure journals, and mark character stats in RPGS. It's being built with rails in API mode on the backend, and JS/TS on the frontend, using react. Unfortunately it's not much to look at yet, so no screenshots, but the repo links are below;
+## 🏗️ My Current Project
 
-<a href="https://github.com/MrBen89/map_maker">Frontend</a>  
-  
-<a href="https://github.com/MrBen89/map_maker_api">Backend</a>  
-  
-  
-  <h2>Some of my projects</h2>  
+I'm building software to draw tiled maps, record adventure journals, and track character stats for RPGs. The backend is Rails (API mode), and the frontend is JS/TS.
 
+- [Frontend Repo](https://github.com/MrBen89/map_maker)
+- [Backend Repo](https://github.com/MrBen89/map_maker_api)
 
-My Lewagon project, WROND! which I presented at Google in Shibuya  
-  
-<a href="https://github.com/MrBen89/WROND"><img width="480" alt="wrond" src="https://github.com/user-attachments/assets/1c16f99e-629e-417b-95a7-e63dd11869ce" /></a>  
-  
-  
-A homepage for my English teaching business, written with Vue  
-  
-<a href="https://github.com/MrBen89/BRPEnglish"><img src="https://user-images.githubusercontent.com/79908678/176362776-e6773a1d-82fa-4454-851c-f9452212aa11.jpg" width="480"></a>
-  
-  
-A small castle tour website I made to try playing around with googlemaps API
-  
-<a href="https://github.com/MrBen89/Eastern-Nagano-Castle-Tour"><img src="https://user-images.githubusercontent.com/79908678/176362852-a9f1e7e4-93ba-437c-aef2-ade4b3d743d1.jpg" width="480"></a>
-  
-And a game for the Atari 2600, written in assembly, 1944
+---
 
-<a href="https://github.com/MrBen89/bomber"><img width="480" alt="1944" src="https://github.com/user-attachments/assets/c91f2bfb-17eb-4167-bf8c-cc373c25c959" /></a>
+## 📚 Some of My Projects
+
+### [WROND!](https://github.com/MrBen89/WROND)
+My Le Wagon project, presented at Google in Shibuya  
+[![WROND!](https://github.com/user-attachments/assets/1c16f99e-629e-417b-95a7-e63dd11869ce)](https://github.com/MrBen89/WROND)
+
+---
+
+### [BRPEnglish](https://github.com/MrBen89/BRPEnglish)
+Homepage for my English teaching business, written with Vue  
+[![BRPEnglish](https://user-images.githubusercontent.com/79908678/176362776-e6773a1d-82fa-4454-851c-f9452212aa11.jpg)](https://github.com/MrBen89/BRPEnglish)
+
+---
+
+### [Eastern Nagano Castle Tour](https://github.com/MrBen89/Eastern-Nagano-Castle-Tour)
+A small castle tour website using the Google Maps API  
+[![Castle Tour](https://user-images.githubusercontent.com/79908678/176362852-a9f1e7e4-93ba-437c-aef2-ade4b3d743d1.jpg)](https://github.com/MrBen89/Eastern-Nagano-Castle-Tour)
+
+---
+
+### [1944 - Atari 2600 Game](https://github.com/MrBen89/bomber)
+An Atari 2600 game written in assembly  
+[![1944](https://github.com/user-attachments/assets/c91f2bfb-17eb-4167-bf8c-cc373c25c959)](https://github.com/MrBen89/bomber)
+
+---
 
 <!---
 MrBen89/MrBen89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
