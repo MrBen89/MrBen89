@@ -10,29 +10,48 @@ Years later, I found myself wanting to code again, so I picked up JS, and starte
 
 Anyway, that's a (very) brief overview of my time with computers. I hope I'll have more to add here in the future!
 
+
+  <h2>Some of my Skills</h2>  
+
+
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,docker,postgres,rails,ruby,react,ts)
+    
+
+  <h2>My Portfolio</h2>  
 
 
+<a href="http://br-pearson.com"><img width="480" alt="brp" src="https://github.com/user-attachments/assets/c3a73513-e19a-482f-a2a0-df0ed44323b6" /></a>
 
 
+      
+  <h2>My current project</h2>
+I'm currently building a piece of software to draw tiled maps, record adventure journals, and mark character stats in RPGS. It's being built with rails in API mode on the backend, and JS/TS on the frontend, using react. Unfortunately it's not much to look at yet, so no screenshots, but the repo links are below;
 
-<a href="http://www.br-pearson.com"><img src="https://user-images.githubusercontent.com/79908678/176362776-e6773a1d-82fa-4454-851c-f9452212aa11.jpg" width="480"></a>
+<a href="https://github.com/MrBen89/map_maker">Frontend</a>  
+  
+<a href="https://github.com/MrBen89/map_maker_api">Backend</a>  
+  
+  
+  <h2>Some of my projects</h2>  
 
 
+My Lewagon project, WROND! which I presented at Google in Shibuya  
+  
+<a href="https://github.com/MrBen89/WROND"><img width="480" alt="wrond" src="https://github.com/user-attachments/assets/1c16f99e-629e-417b-95a7-e63dd11869ce" /></a>  
+  
+  
+A homepage for my English teaching business, written with Vue  
+  
+<a href="https://github.com/MrBen89/BRPEnglish"><img src="https://user-images.githubusercontent.com/79908678/176362776-e6773a1d-82fa-4454-851c-f9452212aa11.jpg" width="480"></a>
+  
+  
+A small castle tour website I made to try playing around with googlemaps API
+  
+<a href="https://github.com/MrBen89/Eastern-Nagano-Castle-Tour"><img src="https://user-images.githubusercontent.com/79908678/176362852-a9f1e7e4-93ba-437c-aef2-ade4b3d743d1.jpg" width="480"></a>
+  
+And a game for the Atari 2600, written in assembly, 1944
 
-and here is a small castle tour website;
-
-https://github.com/MrBen89/Eastern-Nagano-Castle-Tour
-
-![ENCT_screen](https://user-images.githubusercontent.com/79908678/176362852-a9f1e7e4-93ba-437c-aef2-ade4b3d743d1.jpg)
-
-
-Finally my current WIP, a study aid app for children learning English;
-
-https://github.com/MrBen89/studymonster
-
-![eiklen](https://user-images.githubusercontent.com/79908678/178170450-fd77d379-b179-40af-9f1c-2242290b62f8.png)
-
+<a href="https://github.com/MrBen89/bomber"><img width="480" alt="1944" src="https://github.com/user-attachments/assets/c91f2bfb-17eb-4167-bf8c-cc373c25c959" /></a>
 
 <!---
 MrBen89/MrBen89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
