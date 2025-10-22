@@ -59,6 +59,15 @@ An Atari 2600 game written in assembly
 
 ---
 
+---
+
+### [CGAiser - Convert photos to CGA graphics](https://github.com/MrBen89/cgaiser)
+Written in about an hour, just some fun with CGA graphics
+
+[![CGAiser](https://github.com/user-attachments/assets/2c3afdc5-0899-47e9-945c-5bbbb0f9d5fd)](https://github.com/MrBen89/cgaiser)
+
+---
+
 <!---
 MrBen89/MrBen89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
