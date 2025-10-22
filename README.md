@@ -31,6 +31,11 @@ I'm building software to draw tiled maps, record adventure journals, and track c
 - [Frontend Repo](https://github.com/MrBen89/map_maker)
 - [Backend Repo](https://github.com/MrBen89/map_maker_api)
 
+
+I'm also working on a simple Django API (maybe with a frontend, I'm still playing around), that tracks price data of wonderswan games scraped from Merucari, and provides a complete English game Database. (This doesn't currently exist)
+
+- [Repo](https://github.com/MrBen89/WScentral)
+
 ---
 
 ## 📚 Some of My Projects
